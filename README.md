@@ -21,7 +21,7 @@ stop
 
 ## Program:
 ```
-Name : Vishranthu A
+Name : Vishranthi A
 Register Number : 212221230124
 ```
 ```
